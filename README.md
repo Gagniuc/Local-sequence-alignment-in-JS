@@ -1,5 +1,5 @@
 # Local sequence alignment in JS
-This implementation makes a complementarity alignment, namely it detects where two strands of DNA are complementary.
+This implementation makes an alignment between two strings.
 
 # Live demo
 https://gagniuc.github.io/Local-sequence-alignment-in-JS/
