@@ -6,7 +6,7 @@ This implementation makes a complementarity alignment, namely it detects where t
 
 # Screenshot
 
-![screenshot](https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS/blob/main/DNA%20complementarity%20alignment%20in%20JS.PNG)
+![screenshot](https://github.com/Gagniuc/Local-sequence-alignment-in-JS/blob/main/Local%20sequence%20alignment.PNG)
 
 # References
 
