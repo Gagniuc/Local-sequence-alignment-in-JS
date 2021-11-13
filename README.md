@@ -1,5 +1,5 @@
 # Local sequence alignment in JS
-This implementation makes an alignment between two strings.
+This simple implementation makes an alignment between two strings, and it is the core of the application found here: https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal
 
 # Live demo
 https://gagniuc.github.io/Local-sequence-alignment-in-JS/
