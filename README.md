@@ -9,8 +9,7 @@ https://gagniuc.github.io/Local-sequence-alignment-in-JS/
 
 ![screenshot](https://github.com/Gagniuc/Local-sequence-alignment-in-JS/blob/main/img/e.png?raw=true)
 
-
-![screenshot](https://github.com/Gagniuc/Local-sequence-alignment-in-JS/blob/main/img/e.png?raw=true)
+![screenshot](https://github.com/Gagniuc/Local-sequence-alignment-in-JS/blob/main/img/relative%20alignment.png?raw=true)
 
 # References
 
