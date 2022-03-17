@@ -3,6 +3,7 @@
 This JavaScript implementation detects the areas where two DNA/RNA/protein sequences are similar to each other. In fact, this simple implementation makes an alignment between any two strings. All symbols from <kbd>UTF-8</kbd> are accepted by this algorithm. Moreover, the implementation is the core of the application found here: https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal
 
 # Live demo
+
 https://gagniuc.github.io/Local-sequence-alignment-in-JS/
 
 # Screenshot
